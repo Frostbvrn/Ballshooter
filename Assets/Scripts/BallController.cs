@@ -52,6 +52,13 @@ public class BallController : MonoBehaviour
         rb_ball.isKinematic = false;
     }
 
-
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.CompareTag("fakeSurface"))
+        {
+            other.gameObject.SetActive(false);
+            
+        }
+    }
 
 }

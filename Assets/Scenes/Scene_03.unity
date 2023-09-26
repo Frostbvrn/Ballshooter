@@ -5971,7 +5971,7 @@ GameObject:
   - component: {fileID: 360271842}
   m_Layer: 0
   m_Name: Floor13
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6488,7 +6488,7 @@ GameObject:
   - component: {fileID: 438191327}
   m_Layer: 0
   m_Name: Floor6
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8234,7 +8234,7 @@ GameObject:
   - component: {fileID: 583636480}
   m_Layer: 0
   m_Name: Floor7
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9547,7 +9547,7 @@ GameObject:
   - component: {fileID: 712654045}
   m_Layer: 0
   m_Name: Floor9
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16673,7 +16673,7 @@ GameObject:
   - component: {fileID: 1364636309}
   m_Layer: 0
   m_Name: Floor14
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20166,7 +20166,7 @@ GameObject:
   - component: {fileID: 1860954184}
   m_Layer: 0
   m_Name: Floor11
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20518,7 +20518,7 @@ GameObject:
   - component: {fileID: 1878191942}
   m_Layer: 0
   m_Name: Floor3
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21794,7 +21794,7 @@ GameObject:
   - component: {fileID: 2107936050}
   m_Layer: 0
   m_Name: Floor15
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22311,7 +22311,7 @@ GameObject:
   - component: {fileID: 2147479131}
   m_Layer: 0
   m_Name: Floor4
-  m_TagString: Untagged
+  m_TagString: fakeSurface
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22737,7 +22737,7 @@ PrefabInstance:
     - target: {fileID: 622763330879593280, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
       propertyPath: ShotsToComplete
-      value: 4
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4303680812698288562, guid: 80dc5fed223346e4fa53a8715357b330,
         type: 3}
